@@ -1,6 +1,6 @@
-# Hi there 👋, I am Uzair Bin Asim!
+﻿# Hi there 👋, I am Uzair Bin Asim!
 
-###### _Sophomore Computer Science Student_
+###### _Junior Computer Science Student_
 
 A computer science student with experience in a wide variety of languages and programming techniques. I am currently working on developing my skills in Web Design and Web Development.<br/>
 I am studying Machine Learning and hopefully, I plan to start working on projects related to M.L and A.I.
