@@ -9,8 +9,6 @@ I am studying Machine Learning and hopefully, I plan to start working on project
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' alt='gmail' height='40' style="padding-left: 5px;">](mailto:u3560307@connect.hku.hk)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="padding-left: 5px;">](https://www.linkedin.com/in/uzair-bin-asim-6b6225183/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style="padding-left: 5px;">](https://www.instagram.com/uzairasim_/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="padding-left: 5px;">](https://twitter.com/AsimDev3)
 
 ### My GitHub stats
 
