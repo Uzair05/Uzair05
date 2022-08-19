@@ -1,14 +1,15 @@
 # Hi there 👋, I am Uzair Bin Asim!
 
-###### _Junior Computer Science Student_
+###### _Senior Computer Science Student_
 
-A computer science student with experience in a wide variety of languages and programming techniques. I am currently working on developing my skills in Web Design and Web Development.<br/>
-I am studying Machine Learning and hopefully, I plan to start working on projects related to M.L and A.I.
+A computer science student with experience in a wide variety of languages and programming techniques. I am currently working on developing my skills in Artificial Intelligence, Data Analytics, Sytem Design.<br/>
+I am also studying blockchain and blockchain technologies and currently work as a Solidity Developer.
 
 ### You can also find me on
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' alt='gmail' height='40' style="padding-left: 5px;">](mailto:ubcasim@googlemail.com)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' alt='gmail' height='40' style="padding-left: 5px;">](mailto:uzbinasim@connect.hku.hk)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="padding-left: 5px;">](https://www.linkedin.com/in/uzair-bin-asim-6b6225183/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="padding-left: 5px;">](https://www.linkedin.com/in/uzair-bin-asim/)
 
 ### My GitHub stats
 
