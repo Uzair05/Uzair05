@@ -1,15 +1,11 @@
-# Hi there 👋, I am Uzair Bin Asim!
+# Hi there 👋, I am Uzair!
 
-###### _Senior Computer Science Student_
-
-A computer science student with experience in a wide variety of languages and programming techniques. I am currently working on developing my skills in Artificial Intelligence, Data Analytics, Sytem Design.<br/>
-I am also studying blockchain and blockchain technologies and currently work as a Solidity Developer.
+###### _IoT and AWS Cloud Engineer_
 
 ### You can also find me on
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' alt='gmail' height='40' style="padding-left: 5px;">](mailto:ubcasim@googlemail.com)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' alt='gmail' height='40' style="padding-left: 5px;">](mailto:uzbinasim@connect.hku.hk)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="padding-left: 5px;">](https://www.linkedin.com/in/uzair-bin-asim/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' alt='gmail' height='20px' style="padding-left: 15px">](mailto:ubcasim@googlemail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20px' style="padding-left: 15px">](https://www.linkedin.com/in/uzair-bin-asim/)
 
 ### My GitHub stats
 
