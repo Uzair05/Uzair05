@@ -4,8 +4,8 @@
 
 ### You can also find me on
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' alt='gmail' height='20px' style="padding-left: 15px">](mailto:ubcasim@googlemail.com)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20px' style="padding-left: 15px">](https://www.linkedin.com/in/uzair-bin-asim/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' alt='gmail' height='25px' style="padding-left: 15px">](mailto:ubcasim@googlemail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25px' style="padding-left: 15px">](https://www.linkedin.com/in/uzair-bin-asim/)
 
 ### My GitHub stats
 
