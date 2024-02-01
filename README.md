@@ -10,8 +10,8 @@ If you're not into tech, we can always talk about soccer! I'm all ears for any i
 
 ### You can also find me on
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' alt='gmail' height='25px' style="padding-left: 15px; filter: invert(1); mix-blend-mode: difference;">](mailto:ubcasim@googlemail.com)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25px' style="padding-left: 15px; filter: invert(1); mix-blend-mode: difference;">](https://www.linkedin.com/in/uzair-bin-asim/)
+[<img src='./LOGO/gmail.png' alt='gmail' height='40px' style="padding-left: 17px; ">](mailto:ubcasim@googlemail.com)
+[<img src='./LOGO/linkedin.png' alt='linkedin' height='40px' style="padding-left: 17px; ">](https://www.linkedin.com/in/uzair-bin-asim/)
 
 <!-- ### My GitHub stats
 
